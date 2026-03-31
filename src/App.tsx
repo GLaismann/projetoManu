@@ -455,7 +455,7 @@ export default function App() {
                   <span className="text-xs font-bold uppercase tracking-[0.3em] text-rose-500">Playlist Exclusiva</span>
                   <h2 className="font-serif text-5xl md:text-7xl leading-tight">Nossa Trilha</h2>
                   <p className="text-gray-400 text-lg max-w-xl">
-                    Músicas que contam nossa história. Cada batida é um lembrete de um momento que vivemos juntos nestes 3 meses.
+                    Músicas que me fazem lembrar de você.
                   </p>
                 </div>
               </FadeIn>
